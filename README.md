@@ -1,2 +1,3 @@
 # BanglaPi
-The is a demo repository as part of learning progress at CDA, Noida. 
+The is a demo repository. 
+This is part of learning progress at CDA, Noida. 
